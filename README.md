@@ -1,2 +1,2 @@
 # jenkins-git
-pruebas onceptuales CD
+pruebas onceptuales CD ES PRIMER COMMIT.
